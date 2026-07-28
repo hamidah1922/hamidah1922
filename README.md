@@ -12,7 +12,6 @@
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/hamidah1922/hamidah1922/refs/heads/main/header.svg" />
 <br/>
-<br/>
 
 <a href="https://www.linkedin.com/in/hamidah-1246b7299">
   <img src="https://raw.githubusercontent.com/hamidah1922/hamidah1922/main/linkedin.svg" height="78"/>
